@@ -28,11 +28,8 @@ ul li a{
 	text-decoration: none;
 	padding: 16px 96.5px;
 }
-
-/*test*/
-
 a:visited{
-  color: #005199;
+	color: #005199;
 }
 
 .highlight a:hover{
