@@ -53,7 +53,7 @@ a:visited{
 
 .h4 a:hover{
 	background-color: #4180B8;
-	width: 15px;
+	width: 25px;
 	height: 30px;
 }
 
@@ -101,4 +101,47 @@ a:visited{
 	font-family: serif;
 	font-style: bold;
 	font-size: 18px;
+}
+
+/*CSS for the about page*/
+#new{
+	font-family: 'Allura'
+	font-size: 58px;
+	font-weight: bold;
+	border-bottom: 1 px solid gray;
+	padding: 1px;
+}
+
+.history{
+	font-family: 'cursive';
+	font-size: 19px;
+	font-weight: bold;
+	margin: 70px;
+	margin-left: 140px;
+	text-align: left;
+	width: 1150px;
+}
+
+.words{
+	margin-top: 10px;
+	padding: 12px;
+	text-align: center;
+	background-color: #C896FF;
+}
+
+h2{
+	background-color: #fff;
+	font-family: serif;
+	font-size: 40px;
+	font-weight: bold;
+	margin-left: -12px;
+	margin-right: -12px;
+	padding: 12px;
+	padding-left: 12px;
+}
+
+.rp{
+	margin-top: -360px;
+	margin-left: 30px;
+	text-align: left;
 }
