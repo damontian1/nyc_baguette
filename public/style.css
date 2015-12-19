@@ -1,4 +1,104 @@
+body{
+	background-color: #C9CAEA;
+}
+
+ul{
+	background-color: #fff;
+	margin: 1px;
+	margin-left: -10px;
+	margin-right: -10px;
+	padding: 0;
+	text-align: center;
+	border-top: 1px solid #000;
+	border-bottom: 1px solid #000;
+}
+
 ul li{
+	display: inline-block;
+	font-family: serif;
+	font-size: 19px;
 	list-style-type: none;
+	margin: 1px;
+	padding: 14px 6px;
+	text-align: center;
+}
+
+ul li a{
+	color: #000;
 	text-decoration: none;
+	padding: 16px 96.5px;
+}
+
+a:visited{
+  color: #005199;
+}
+
+.highlight a:hover{
+	background-color: #4180B8;
+	width: 15px;
+	height: 30px;
+}
+
+.h2 a:hover{
+	background-color: #4180B8;
+	width: 15px;
+	height: 30px;
+}
+
+.h3 a:hover{
+	background-color: #4180B8;
+	width: 15px;
+	height: 30px;
+}
+
+.h4 a:hover{
+	background-color: #4180B8;
+	width: 15px;
+	height: 30px;
+}
+
+.logo{
+	background-color: #fff;
+	margin-top: -10px;
+	margin-left: -10px;
+	margin-right: -10px;
+	text-align: center;
+}
+
+.icons{
+	display: inline;
+	text-align: left;
+	padding: 0px 20px;
+	margin: -10px;
+}
+
+.icon{
+	color: #005199;
+	margin-bottom: -58px;
+	padding: 0px 150px;
+}
+
+.bread{
+	display: none;
+	margin: 50px;
+	text-align: center;
+}
+
+.box{
+	text-align: center;
+}
+
+.home{
+	margin: 20px;
+	text-align: center;
+}
+
+.squiggle{
+	text-align: center;
+}
+
+.text{
+	font-family: serif;
+	font-style: bold;
+	font-size: 18px;
 }
