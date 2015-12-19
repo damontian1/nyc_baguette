@@ -28,14 +28,9 @@ ul li a{
 	text-decoration: none;
 	padding: 16px 96.5px;
 }
-<<<<<<< HEAD
-a:visited{
-	color: #005199;
-=======
 
 a:visited{
   color: #005199;
->>>>>>> dd8940b48fe3c9d7ac929af12db458c9d49c699e
 }
 
 .highlight a:hover{
