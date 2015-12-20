@@ -5,13 +5,13 @@ get '/' do
 end
 
 get '/products' do
-	erb :home
+	erb :products
 end
 
 get '/about' do
-	erb :home
+	erb :about
 end
 
 get '/contact' do
-	erb :home
+	erb :contact
 end
