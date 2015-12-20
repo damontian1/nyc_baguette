@@ -1,4 +1,5 @@
 $(".bread").fadeIn(1500)
+$(".box").fadeIn(1500)
 
 $(".pastry3").on("click", function(){
 
