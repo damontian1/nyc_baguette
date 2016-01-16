@@ -44,7 +44,7 @@ def configure_pony
     :port                 => '587',
     :enable_starttls_auto => true,
     :user_name            => 'killahb304@gmail.com',
-    :password             => 'PBL6EPZVsVubybp',
+    :password             => '',
     :authentication       => :plain, # :plain, :login, :cram_md5, no auth by default
     }    
   }
