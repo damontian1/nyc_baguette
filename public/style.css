@@ -186,13 +186,16 @@ h2{
 /*Here is the code for the products page*/
 #close{
     color: #aaa;
-    float: right;
-    font-size: 28px;
     background-color: #565656;
+    position: fixed;
+    top: 0;
+    right: 0;
+    color: white;
+    font-size: 40px;
 }
 
 #close:hover, #close:focus{
-	color: #000;
+	color: #4180B8;
 	text-decoration: none;
 }
 
