@@ -97,10 +97,9 @@ a:visited{
 
 .logo{
 	background-color: #fff;
-	margin-top: -10px;
-	margin-left: -10px;
-	margin-right: -10px;
-	text-align: center;
+    width: 1400px;
+    margin: 0 auto;
+    text-align: center;
 }
 
 .icons{
@@ -111,9 +110,12 @@ a:visited{
 }
 
 .icon{
-	color: #005199;
 	margin-bottom: -58px;
-	padding: 0px 150px;
+    text-align: right;
+    margin-right: 10%;
+}
+i.fa.fa-2x {
+	color: #4180B8;
 }
 
 .bread{
@@ -154,9 +156,9 @@ a:visited{
 	font-family: 'cursive';
 	font-size: 19px;
 	font-weight: bold;
-	margin-left: 140px;
-	text-align: left;
-	width: 1150px;
+	margin: 0 auto;
+    text-align: left;
+    width: 1100px;
 }
 
 .words{
@@ -211,8 +213,8 @@ input, label{
 	width: 100%;
 }
 #container2{
-	width: 410px;
-	margin: 0 auto;
+	width: 530px;
+    margin: 0 auto;
 }
 #contact3{
 	margin-top: 20px;
