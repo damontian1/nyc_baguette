@@ -125,6 +125,7 @@ i.fa.fa-2x {
 }
 
 .box{
+	display: none;
 	text-align: center;
 }
 
