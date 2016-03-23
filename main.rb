@@ -1,6 +1,10 @@
 require 'sinatra'
 require 'pony'
 
+get '/styles.css' do
+  scss :styles
+end
+
 get '/' do
 	erb :home
 end
